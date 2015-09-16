@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說波斯匿王太后崩塵土坌身經
+#+DATE: 2015-08-30 19:32:01.582275
+#+PROPERTY: JUAN 0
